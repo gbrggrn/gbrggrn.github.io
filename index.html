@@ -4,19 +4,19 @@ layout: default
 <div class="row justify-content-center mt-5 mb-5">
   
   <div>
-    <div class="category-card">
+    <div class="category-card" onclick="toggleTimeline('edu-timeline')">
       <h3>Education</h3>
     </div>
   </div>
 
   <div class="px-3">
-    <div class="category-card">
+    <div class="category-card" onclick="toggleTimeline('proj-timeline')">
       <h3>Projects</h3>
     </div>
   </div>
 
   <div>
-    <div class="category-card">
+    <div class="category-card" onclick="toggleTimeline('work-timeline')">
       <h3>Work</h3>
     </div>
   </div>
@@ -26,9 +26,15 @@ layout: default
 <div class="row justify-content-center mt-4 mb-4">
 
 <div id="timeline-container">
-  <div id="edu-timeline" class="d-none"> {% include timeline.html type="education" %} </div>
-  <div id="proj-timeline" class="d-none"> {% include timeline.html type="project" %} </div>
-  <div id="work-timeline" class="d-none"> {% include timeline.html type="work" %} </div>
-</div>
+  <div id="edu-timeline" class="timeline-wrapper"> 
+    {% include timeline.html type="education" %} 
+  </div>
   
+  <div id="proj-timeline" class="timeline-wrapper"> 
+    {% include timeline.html type="project" %} 
+  </div>
+  
+  <div id="work-timeline" class="timeline-wrapper"> 
+    {% include timeline.html type="work" %} 
+  </div>
 </div>
