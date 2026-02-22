@@ -1,7 +1,7 @@
 <section class="py-5">
   <ul class="timeline">
-    {% for entry in include.entries %}
-      {% if entry.category == "include.type" %}
+    {% for entry in site.data.entries %}
+      {% if entry.category == include.category %}
         {% include timeline-entry.html item=entry %}
       {% endif %}
     {% endfor %}
