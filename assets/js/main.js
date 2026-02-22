@@ -5,7 +5,7 @@ function toggleTimeline(timelineId) {
     wrapper.classList.remove('timeline-visible');
   });
 
-  const target = docuemtn.getElementById(timelineId);
+  const target = document.getElementById(timelineId);
   if (target) {
     target.classList.add('timeline-visible');
   }
