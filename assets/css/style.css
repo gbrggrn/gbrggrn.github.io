@@ -1,3 +1,5 @@
 .category-card {
   width: 200px;
+  border: none;
+  background-color: #668168;
 }
