@@ -1,21 +1,21 @@
----
----
 .category-card {
   position: relative;
   cursor: pointer;
   overflow: hidden;
   transition: transform 0.3s ease;
-  width: 200px;
   border-radius: 0px;
   background-color: #668168;
 }
+
   .category-card:hover {
     transform: scale(1.02);
   }
+
   .category-card .card-header {
     background-color: transparent;
     border-bottom: none;
   }
+
 .custom-header {
   text-align: center;
   width: 100%;
