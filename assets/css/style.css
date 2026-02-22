@@ -33,6 +33,20 @@ h1, h2, h3, .category-card h3 {
   content: "";
 }
 
+.timeline-wrapper {
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.timeline-wrapper.timeline-visible {
+    opacity: 1;
+    height: auto;
+    transform: translateY(0);
+    animation: fadeInUp 0.5s ease-out forwards;
+}
+
 .category-card {
   position: relative;
   cursor: pointer;
