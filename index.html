@@ -25,8 +25,10 @@ layout: default
 
 <div class="row justify-content-center mt-4 mb-4">
 
-  <div class="mt-4">
-    #timeline-container
-  </div>
+<div id="timeline-container">
+  <div id="edu-timeline" class="d-none"> {% include timeline.html type="education" %} </div>
+  <div id="proj-timeline" class="d-none"> {% include timeline.html type="project" %} </div>
+  <div id="work-timeline" class="d-none"> {% include timeline.html type="work" %} </div>
+</div>
   
 </div>
