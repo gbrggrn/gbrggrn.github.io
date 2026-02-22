@@ -41,13 +41,13 @@ h1, h2, h3, .category-card h3 {
     transition: opacity 0.4s ease, transform 0.4s ease;
 }
 
-.timeline-wrapper.timeline-visible {
-    display: block;
-    opacity: 1;
-    height: auto;
-    transform: translateY(0);
-    animation: fadeInUp 0.5s ease-out forwards;
-}
+  .timeline-wrapper.timeline-visible {
+      display: block;
+      opacity: 1;
+      height: auto;
+      transform: translateY(0);
+      animation: fadeInUp 0.5s ease-out forwards;
+  }
 
 .category-card {
   position: relative;
