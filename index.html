@@ -4,24 +4,24 @@ layout: default
 <div class="row justify-content-center mb-3">
   
     <div>
-      <div class="category-card" onclick="toggleTimeline('edu-timeline')">
+      <div class="category-card col-auto" onclick="toggleTimeline('edu-timeline')">
         <h3>Education</h3>
       </div>
     </div>
   
     <div class="px-3">
-      <div class="category-card" onclick="toggleTimeline('work-timeline')">
+      <div class="category-card col-auto" onclick="toggleTimeline('work-timeline')">
         <h3>Work</h3>
       </div>
     </div>
   
     <div>
-      <div class="category-card" onclick="toggleTimeline('proj-timeline')">
+      <div class="category-card col-auto" onclick="toggleTimeline('proj-timeline')">
         <h3>Projects</h3>
       </div>
     </div>
 
-    <div id="timeline-container" class="mt-3">
+    <div id="timeline-container" class=" col-12 mt-3">
       <div id="edu-timeline" class="timeline-wrapper"> 
         {% include timeline.html type="education" %} 
       </div>
