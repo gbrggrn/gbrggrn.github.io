@@ -183,14 +183,14 @@
 
 - title: "Artificial Intelligence as a Phenomenon in Education: Links Between Education, Knowledge and Technology - University of Gävle"
   date: "2026-01"
-  end-date: "2026-06"
+  end_date: "2026-06"
   url: "https://edu.hig.se/docs/en/syllabus/course/PEG507?valid-from=2024-01-15"
   category: "education"
   description: "The course critically examines the ethical, historical and societal impacts of AI and digital technologies on education and human development"
 
 - title: "Introduction to QGIS - Luleå University of Technology"
   date: "2026-01"
-  end-date: "2026-06"
+  end_date: "2026-06"
   url: "https://www.ltu.se/en/education/syllabuses/course-syllabus?termin=HT%202025&id=L0023B"
   category: "education"
   description: "The course provides an introduction to Geographical Information Systems (GIS) through practical work in QGIS."
