@@ -311,3 +311,15 @@
   url: "https://oru.diva-portal.org/smash/get/diva2:793301/FULLTEXT01.pdf"
   category: "writing"
   description: "A comparison of quality guidelines for production and culinary professionals assessment of quality."
+
+- title: "Avoiding Cognitive Overload - Conference Contribution Practice"
+  date: "2023-12"
+  url: "https://github.com/gbrggrn/writing-academic/blob/898ed613576c678f7d8cc6864dfc6f324f9be382/avoiding-cognitive-overload.pdf"
+  category: "writing"
+  description: "Assessing the effect on cognitive load of different websites through the eyes of interaction design authors."
+
+- title: "Social Technologies as a Tool in Intra-organizational Communication - Conference Contribution Practice"
+  date: "2023-12"
+  url: "https://github.com/gbrggrn/writing-academic/blob/898ed613576c678f7d8cc6864dfc6f324f9be382/social-technologies-as-a-tool-in-intra-organizational-communication.pdf"
+  category: "writing"
+  description: "This essay explores and attempts to answer how social technologies (Enterprise Social Networks) facilitate and impact intra-organizational communication in large organizations on an operational, managerial and strategic level."
