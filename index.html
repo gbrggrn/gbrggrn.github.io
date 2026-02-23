@@ -3,23 +3,29 @@ layout: default
 ---
 <div class="row justify-content-center mb-3">
   
-    <div>
-      <div class="category-card" onclick="toggleTimeline('edu-timeline')">
-        <h3>Education</h3>
-      </div>
+  <div>
+    <div class="category-card" onclick="toggleTimeline('edu-timeline')">
+      <h3>Education</h3>
     </div>
-  
-    <div class="px-3">
-      <div class="category-card" onclick="toggleTimeline('work-timeline')">
-        <h3>Work</h3>
-      </div>
+  </div>
+
+  <div class="ms-3">
+    <div class="category-card" onclick="toggleTimeline('work-timeline')">
+      <h3>Work</h3>
     </div>
-  
-    <div>
-      <div class="category-card" onclick="toggleTimeline('proj-timeline')">
-        <h3>Projects</h3>
-      </div>
+  </div>
+
+  <div class="ms-3">
+    <div class="category-card" onclick="toggleTimeline('proj-timeline')">
+      <h3>Projects</h3>
     </div>
+  </div>
+
+  <div class="ms-3">
+    <div class="category-card" onclick="toggleTimeLine('writing-timeline')">
+      <h3>Writing</h3>
+    </div>
+  </div>
   
 </div>
 
@@ -36,6 +42,10 @@ layout: default
     
     <div id="work-timeline" class="timeline-wrapper w-100"> 
       {% include timeline.html type="work" %} 
+    </div>
+
+    <div id="writing-timeline" class="timeline-wrapper w-100">
+      {% include timeline.html type="work" %}
     </div>
   </div>
 
