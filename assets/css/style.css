@@ -34,6 +34,7 @@ h1, h2, h3, .category-card h3 {
 }
 
 .timeline-wrapper {
+    position: relative;
     opacity: 0;
     visibility: hidden;
     height: 0;
