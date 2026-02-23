@@ -226,9 +226,56 @@
   date: "2010-06"
   category: "education"
   description: "Focused on the study of conflicts, peacebuilding and international relations."
-  
-- title: "Sous Chef"
+
+- title: "Veda Verk Market Garden - Owner"
+  date: "2024-12"
+  url: ""
+  category: "work"
+  description: "1000m2 of vegetables and flowers. Selling to private customers and restaurants during the summer season."
+
+- title: "Kocken och Grisen - Chef"
+  date: "2021-06"
+  url: "https://www.kockenochgrisen.se/"
+  category: "work"
+  description: "Part time catering chef since 2021. On site wood-fired cooking."
+
+- title: "Stiftelsen Barnens Dag - Janitor / Assistant Operations Manager"
+  date: "2021-03"
+  end-date: "2023-05"
+  url: "https://barnenso.se/"
+  description: "Started as a janitor focused on carpentry and outside environment. (2022) Assistant Operations Manager responsible for operational planning. Led and coordinated smaller projects."
+
+- title: "Riket Vinbar - Sous Chef"
   date: "2020-01"
+  end-date: "2020-12"
   url: "https://riket.net/"
   category: "work"
   description: "Operations planning: menus, purchasing and scheduling. Daily menu planning, organizing produce sourced from small scale farms."
+
+- title: "Gastroträdgården AB - Head Chef & Owner"
+  date: "2014-04"
+  end-date: "2019-09"
+  category: "work"
+  description: |
+    Co-founder and co-owner mainly responsible for concept development, operational planning, kitchen design and economy, supply management, recruitment.
+    Lead and managed staff in numbers ranging from 45-55 during peak season to 5-10 during off season.
+    ## Operational units
+    * Restaurant FABRICK. (2017)
+    * Restaurant Malmöns Brygga (2018)
+    * Bryggbaren (2018)
+    * Restaurant Hamnskjulet (2014)
+    * M/S Svea af Bohuslän (2018)
+    * Malmöns Pizza (2014)
+    * Gula Kiosken (2016)
+
+- title: "Champagnebaren/Gunnebo Gårdskrog/Garveriet/Epoque - Chef"
+  date: "2015-03"
+  end-date: "2020-01"
+  category: "work"
+  description: "Extra shifts in varying positions whilst operating my own restaurants with the purpose of connecting with industry peers."
+
+- title: "Dorsia Hotel & Restaurant - Chef"
+  date: "2014-03"
+  end-date: "2017-06"
+  category: "work"
+  description: "Worked in a close-knit, skilled and motivated team for three years. Tasting menus in classic French style with global influences."
