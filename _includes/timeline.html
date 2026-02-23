@@ -1,6 +1,6 @@
 <section>
   <ul class="timeline">
-    {% assign sorted_entries = site.data.entries | sort: "date" | reverse %}
+    {% assign sorted_entries = site.data.entries | sort: "end_date" | reverse %}
     {% for entry in sorted_entries %}
       {% if entry.category == include.type %}
         {% include timeline-entry.html item=entry %}
