@@ -11,7 +11,7 @@
       <p class="text-muted mb-2 fw-bold">
             {% if include.item.end_date %}
                   {{include.item.date | date: "%B %Y" }}
-                  {% if include.item.end_date == "Present" %}
+                  {% if include.item.end_date == "present" %}
                         Present
                   {% else %}
                         {{ include.item.end_date | date: "%B %Y" }}
