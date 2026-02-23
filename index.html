@@ -2,8 +2,7 @@
 layout: default
 ---
 <div class="row justify-content-center mb-3">
-
-  <div class="row mb-3">
+  
     <div>
       <div class="category-card" onclick="toggleTimeline('edu-timeline')">
         <h3>Education</h3>
@@ -21,9 +20,7 @@ layout: default
         <h3>Projects</h3>
       </div>
     </div>
-  </div>
 
-  <div class="row justify-content-center">
     <div id="timeline-container mt-3">
       <div id="edu-timeline" class="timeline-wrapper"> 
         {% include timeline.html type="education" %} 
@@ -37,6 +34,5 @@ layout: default
         {% include timeline.html type="work" %} 
       </div>
     </div>
-  </div>
   
 </div>
