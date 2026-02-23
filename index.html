@@ -25,16 +25,16 @@ layout: default
 
 <div class="row justify-content-center mb-3">
 
-  <div id="timeline-container">
-    <div id="edu-timeline" class="timeline-wrapper"> 
+  <div id="timeline-container" class="col-12 col-md-8 d-flex flex-column align-items-center">
+    <div id="edu-timeline" class="timeline-wrapper w-100"> 
       {% include timeline.html type="education" %} 
     </div>
     
-    <div id="proj-timeline" class="timeline-wrapper"> 
+    <div id="proj-timeline" class="timeline-wrapper w-100"> 
       {% include timeline.html type="project" %} 
     </div>
     
-    <div id="work-timeline" class="timeline-wrapper"> 
+    <div id="work-timeline" class="timeline-wrapper w-100"> 
       {% include timeline.html type="work" %} 
     </div>
   </div>
