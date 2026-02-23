@@ -45,6 +45,7 @@ h1, h2, h3, .category-card h3 {
       opacity: 1;
       visibility: visible;
       height: auto;
+      width: 50%;
       transition: opacity 0.4s ease, height 0s;
       animation: fadeInUp 0.6s ease forwards;
   }
@@ -61,11 +62,11 @@ h1, h2, h3, .category-card h3 {
 }
 
 .profile-img {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   border-radius: 50%;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .category-card {
