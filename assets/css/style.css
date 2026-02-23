@@ -49,6 +49,7 @@ h1, h2, h3, .category-card h3 {
     visibility: hidden;
     height: 0;
     overflow: hidden;
+    padding-left: 15px;
     transition: opacity 0.4s ease, height 0s linear 0.4s, visibility 0s linear 0.4s;
 }
 
