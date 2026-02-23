@@ -45,7 +45,7 @@ h1, h2, h3, .category-card h3 {
       opacity: 1;
       visibility: visible;
       height: auto;
-      width: 50%;
+      width: 30%;
       transition: opacity 0.4s ease, height 0s;
       animation: fadeInUp 0.6s ease forwards;
   }
