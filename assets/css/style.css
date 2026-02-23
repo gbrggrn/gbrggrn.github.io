@@ -18,6 +18,7 @@ h1, h2, h3, .category-card h3 {
   position: relative;
   list-style: none;
   padding-left: 30px;
+  margin-left: 6px;
 }
 
 .timeline .timeline-item {
