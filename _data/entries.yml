@@ -237,7 +237,7 @@
   category: "education"
   description: "Building types and construction methods. Soil conditions and foundation techniques. Understanding of building systems. Overview of Sweden's energy system in relation to installations."
 
-- title: "BSc Culinary Arts and Meal Science - Grythyttan Örebro University"
+- title: "BA Culinary Arts and Meal Science - Grythyttan Örebro University"
   date: "2011-06"
   end_date: "2014-06"
   url: "https://www.oru.se/utbildning/program/kulinarisk-kock-och-maltidskreator/"
@@ -303,3 +303,8 @@
   end_date: "2017-06"
   category: "work"
   description: "Worked in a close-knit, skilled and motivated team for three years. Tasting menus in classic French style with global influences."
+
+- title: "Kvalitetsaspekter på kyckling - Bachelors thesis"
+  date: "2014-06"
+  category: "writing"
+  description: "A comparison of quality guidelines for production and culinary professionals' assessment of quality."
