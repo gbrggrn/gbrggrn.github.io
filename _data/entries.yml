@@ -252,12 +252,14 @@
 
 - title: "Veda Verk Market Garden - Owner"
   date: "2024-12"
+  end_date: "present"
   url: ""
   category: "work"
   description: "1000m2 of vegetables and flowers. Selling to private customers and restaurants during the summer season."
 
 - title: "Kocken och Grisen - Chef"
   date: "2021-06"
+  end_date: "present"
   url: "https://www.kockenochgrisen.se/"
   category: "work"
   description: "Part time catering chef since 2021. On site wood-fired cooking."
@@ -304,7 +306,7 @@
   category: "work"
   description: "Worked in a close-knit, skilled and motivated team for three years. Tasting menus in classic French style with global influences."
 
-- title: "Kvalitetsaspekter på kyckling - Bachelors thesis"
+- title: "Quality Aspects of Chicken - Bachelors thesis"
   date: "2014-06"
   url: "https://oru.diva-portal.org/smash/get/diva2:793301/FULLTEXT01.pdf"
   category: "writing"
