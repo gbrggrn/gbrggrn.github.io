@@ -8,6 +8,17 @@
                   {{ include.item.title }}
             {% endif %}
             </h5>
-      <p class="text-muted mb-2 fw-bold">{{ include.item.date }}</p>
+      <p class="text-muted mb-2 fw-bold">
+            {% if include.item.end-date %}
+                  {{include.item.date | date: "%B %Y" }}
+                  {% if include.item.end_date == "Present" %}
+                        Present
+                  {% else %}
+                        {{ include.item.end_date | date: "%B %Y" }}
+                  {% endif %}
+            {% else %}
+                  {{ include.item.date | date: "%B %Y" }}
+            {% endif %}
+      </p>
       <p class="text-muted"> {{ include.item.description | newline_to_br }}</p>
 </li>
