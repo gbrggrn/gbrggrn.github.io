@@ -181,6 +181,20 @@
     Programming in C
     Information Systems and IT
 
+- title: "Artificial Intelligence as a Phenomenon in Education: Links Between Education, Knowledge and Technology - University of Gävle"
+  date: "2026-01"
+  end-date: "2026-06"
+  url: "https://edu.hig.se/docs/en/syllabus/course/PEG507?valid-from=2024-01-15"
+  category: "education"
+  description: "The course critically examines the ethical, historical and societal impacts of AI and digital technologies on education and human development"
+
+- title: "Introduction to QGIS - Luleå University of Technology"
+  date: "2026-01"
+  end-date: "2026-06"
+  url: "https://www.ltu.se/en/education/syllabuses/course-syllabus?termin=HT%202025&id=L0023B"
+  category: "education"
+  description: "The course provides an introduction to Geographical Information Systems (GIS) through practical work in QGIS."
+
 - title: "C# III - Malmö University"
   date: "2025-09"
   end_date: "2026-01"
@@ -202,7 +216,7 @@
   category: "education"
   description: "Overview of .NET Framework, class library, run time and namespaces. Objects, class, enums, structs. Types, variables, declarations. Operators, decision making and flow control using conditions and loops. Arrays and collections, saving data to files."
 
-- title: "Introductory Programming in Python - Högskolan i Gävle"
+- title: "Introductory Programming in Python - University of Gävle"
   date: "2024-01"
   end_date: "2024-06"
   url: "https://edu.hig.se/docs/sv/syllabus/course/DVG012?valid-from=2024-01-15"
@@ -216,7 +230,7 @@
   category: "education"
   description: "Role of digitalisation: historical and cotemporary views. Integrating sustainability in digital projects. Ethical and societal impacts of digital transformation. Future trends in digitalisation and sustainability."
 
-- title: "Building Components and Building Services Technology - Högskolan i Gävle"
+- title: "Building Components and Building Services Technology - University of Gävle"
   date: "2022-01"
   end_date: "2022-06"
   url: "https://edu.hig.se/docs/sv/syllabus/course/BYG005?valid-from=2014-01-20"
