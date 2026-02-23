@@ -241,20 +241,20 @@
 
 - title: "Stiftelsen Barnens Dag - Janitor / Assistant Operations Manager"
   date: "2021-03"
-  end-date: "2023-05"
+  end_date: "2023-05"
   url: "https://barnenso.se/"
   description: "Started as a janitor focused on carpentry and outside environment. (2022) Assistant Operations Manager responsible for operational planning. Led and coordinated smaller projects."
 
 - title: "Riket Vinbar - Sous Chef"
   date: "2020-01"
-  end-date: "2020-12"
+  end_date: "2020-12"
   url: "https://riket.net/"
   category: "work"
   description: "Operations planning: menus, purchasing and scheduling. Daily menu planning, organizing produce sourced from small scale farms."
 
 - title: "Gastroträdgården AB - Head Chef & Owner"
   date: "2014-04"
-  end-date: "2019-09"
+  end_date: "2019-09"
   category: "work"
   description: |
     Co-founder and co-owner mainly responsible for concept development, operational planning, kitchen design and economy, supply management, recruitment.
@@ -270,12 +270,12 @@
 
 - title: "Champagnebaren/Gunnebo Gårdskrog/Garveriet/Epoque - Chef"
   date: "2015-03"
-  end-date: "2020-01"
+  end_date: "2020-01"
   category: "work"
   description: "Extra shifts in varying positions whilst operating my own restaurants with the purpose of connecting with industry peers."
 
 - title: "Dorsia Hotel & Restaurant - Chef"
   date: "2014-03"
-  end-date: "2017-06"
+  end_date: "2017-06"
   category: "work"
   description: "Worked in a close-knit, skilled and motivated team for three years. Tasting menus in classic French style with global influences."
