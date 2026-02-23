@@ -60,6 +60,14 @@ h1, h2, h3, .category-card h3 {
   }
 }
 
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  opacity: 0.8;
+}
+
 .category-card {
   position: relative;
   cursor: pointer;
