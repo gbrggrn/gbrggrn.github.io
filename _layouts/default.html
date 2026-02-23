@@ -15,13 +15,18 @@
 <body>
 
   <header class="py-5 custom-header">
-    <div>
-      <img src="{{ '/assets/images/GustafResumeImg.jpg' || relative_url }}" alt="Gustaf Berggren Sörlin" class="profile-img mt-3 col-md-2"/>
-      <div class="px-3 mt-3 col-md-3">
-        <h2>Gustaf Berggren Sörlin</h2><br>
-        <p class="lead">BSc Culinary Arts & Meal Science | BSc Informatics: IT Project Management & ERP-Systems</p><br>
-        <p>Catchphrase</p>
+    <div class="d-flex flex-wrap">
+      
+      <div class="me-3">
+        <img src="{{ '/assets/images/GustafResumeImg.jpg' | relative_url }}" alt="Gustaf Berggren Sörlin" class="profile-img mt-3"/>
       </div>
+      
+      <div class="text-start">
+        <h2 class="mb-1">Gustaf Berggren Sörlin</h2><br>
+        <p class="lead mb-1">BSc Culinary Arts & Meal Science<br>BSc Informatics: IT Project Management & ERP-Systems</p><br>
+        <p class="text-muted mt-2">Catchphrase</p>
+      </div>
+      
     </div>
   </header>
 
