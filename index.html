@@ -25,16 +25,18 @@ layout: default
 
 <div class="row justify-content-center">
 
-<div id="timeline-container">
-  <div id="edu-timeline" class="timeline-wrapper"> 
-    {% include timeline.html type="education" %} 
+  <div id="timeline-container">
+    <div id="edu-timeline" class="timeline-wrapper"> 
+      {% include timeline.html type="education" %} 
+    </div>
+    
+    <div id="proj-timeline" class="timeline-wrapper"> 
+      {% include timeline.html type="project" %} 
+    </div>
+    
+    <div id="work-timeline" class="timeline-wrapper"> 
+      {% include timeline.html type="work" %} 
+    </div>
   </div>
-  
-  <div id="proj-timeline" class="timeline-wrapper"> 
-    {% include timeline.html type="project" %} 
-  </div>
-  
-  <div id="work-timeline" class="timeline-wrapper"> 
-    {% include timeline.html type="work" %} 
-  </div>
+
 </div>
