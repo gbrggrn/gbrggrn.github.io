@@ -1,11 +1,11 @@
 - title: "Draw Patterns - Java Java Swing"
-  date: "2025-10"
+  date: "2026-01"
   url: "https://github.com/gbrggrn/java-swing-draw-patterns"
   category: "project"
   description: "A drawing program that was developed solely with the purpose of practicing implementing design patterns."
 
 - title: "Text Editor (Two Views) - Java Java Swing"
-  date: "2026-01"
+  date: "2025-10"
   url: "https://github.com/gbrggrn/java-swing-text-editor"
   category: "project"
   description: "A simple text editor that has both a swing-, and a console view which can be switched between."
