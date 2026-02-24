@@ -323,3 +323,15 @@
   url: "https://github.com/gbrggrn/writing-academic/blob/898ed613576c678f7d8cc6864dfc6f324f9be382/social-technologies-as-a-tool-in-intra-organizational-communication.pdf"
   category: "writing"
   description: "This essay explores and attempts to answer how social technologies (Enterprise Social Networks) facilitate and impact intra-organizational communication in large organizations on an operational, managerial and strategic level."
+
+- title: "A Possible Case for Meal Kits at IKEA - Market research report"
+  date: "2025-06"
+  url: "https://github.com/gbrggrn/writing-academic/blob/main/meal-kits-at-ikea-report.pdf"
+  category: "writing"
+  description: "This market research report investigates the feasibility and consumer sentiments around the idea of introducing meal kits at IKEA."
+
+- title: "A Possible Case for Meal Kits at IKEA - Presentation"
+  date: "2025-06"
+  url: "https://github.com/gbrggrn/writing-academic/blob/main/meal-kits-at-ikea-presentation.pdf"
+  category: "writing"
+  description: "The condensed presentation of the report."
