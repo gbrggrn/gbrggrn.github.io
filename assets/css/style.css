@@ -4,11 +4,11 @@ html {
 
 body {
   overflow-x: hidden;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Open Sans', work-sans;
 }
 
 h1, h2, h3, .category-card h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', work-sans;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
