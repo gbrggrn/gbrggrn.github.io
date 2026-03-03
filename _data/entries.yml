@@ -1,5 +1,5 @@
 - title: "Local Garden Weather Reporter - Typescript Node.js"
-  date: "2026-03"
+  date: "2026-02"
   url: "https://github.com/gbrggrn/typescript-nodejs-llm-weather-reporter"
   category: "project"
   description: "Weather reporter that pulls data from SMHI pmp3g and creates a local, detailed weather forecast."
