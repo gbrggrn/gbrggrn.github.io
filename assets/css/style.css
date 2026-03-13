@@ -132,4 +132,29 @@ h1, h2, h3, .category-card h3 {
     visibility: visible;
   }
 
+.bi-envelope-at {
+  font-size: 2rem;
+  color: black;
+  transform: 0.3s ease;
+}
+  .bi-envelope-at:hover {
+    transform: scale(1.02);
+  }
 
+.bi-telephone-outbound {
+  font-size: 2rem;
+  color: black;
+  transform: 0.3s ease;
+}
+  .bi-telephone-outbound:hover {
+    transform: scale(1.02);
+  }
+
+.bi-github {
+  font-size: 2rem;
+  color: black;
+  transform: 0.3s ease;
+}
+  .bi-github:hover {
+    transform: scale(1.02);
+  }
