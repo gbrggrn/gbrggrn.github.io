@@ -133,6 +133,7 @@ h1, h2, h3, .category-card h3 {
   }
 
 .bi-envelope-at {
+  display: inline-block;
   font-size: 2rem;
   color: black;
   transition: transform 0.3s ease;
@@ -142,6 +143,7 @@ h1, h2, h3, .category-card h3 {
   }
 
 .bi-telephone-outbound {
+  display: inline-block;
   font-size: 2rem;
   color: black;
   transition: transform 0.3s ease;
@@ -151,6 +153,7 @@ h1, h2, h3, .category-card h3 {
   }
 
 .bi-github {
+  display: inline-block;
   font-size: 2rem;
   color: black;
   transition: transform 0.3s ease;
