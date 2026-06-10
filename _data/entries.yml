@@ -213,12 +213,12 @@
   category: "education"
   description: "The course aims to provide students with an in-depth introduction to eXtensible markup language (XML)."
 
-- title: "Artificial Intelligence as a Phenomenon in Education: Links Between Education, Knowledge and Technology - University of Gävle"
-  date: "2026-01"
-  end_date: "2026-06"
-  url: "https://edu.hig.se/docs/en/syllabus/course/PEG507?valid-from=2024-01-15"
+- title: "Wind power - Uppsala University"
+  date: "2026-04"
+  end-date: "2026-06"
+  url: "https://www.uu.se/utbildning/kursplan?query=40154"
   category: "education"
-  description: "The course critically examines the ethical, historical and societal impacts of AI and digital technologies on education and human development"
+  description: "Aims to teach the technical mechanics, economic factors, environmental impacts, and regulatory processes involved in wind power projects."
 
 - title: "Introduction to QGIS - Luleå University of Technology"
   date: "2026-01"
