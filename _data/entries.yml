@@ -1,3 +1,9 @@
+- title: "Riksdagsbevakaren - XML"
+  date: "2026-05"
+  url: "https://github.com/gbrggrn/xml-html-css-riksdagsbevakaren"
+  category: "project"
+  description: "An ETP-pipeline (Extract, Transform, Present) that fetches XML data from Riksdagens open API via Python, transforms it via XQuery + Saxon HE, renders HTML through XSLT and validates the generated data model through XSD. SPA presentation with CSS:target providing the modality-functionality.
+
 - title: "Local Garden Weather Reporter - Typescript Node.js"
   date: "2026-02"
   url: "https://github.com/gbrggrn/typescript-nodejs-llm-weather-reporter"
