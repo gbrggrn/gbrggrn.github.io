@@ -215,7 +215,7 @@
 
 - title: "Wind power - Uppsala University"
   date: "2026-04"
-  end-date: "2026-06"
+  end_date: "2026-06"
   url: "https://www.uu.se/utbildning/kursplan?query=40154"
   category: "education"
   description: "Aims to teach the technical mechanics, economic factors, environmental impacts, and regulatory processes involved in wind power projects."
