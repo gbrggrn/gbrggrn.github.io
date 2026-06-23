@@ -366,4 +366,10 @@
   date: "2025-06"
   url: "https://github.com/gbrggrn/writing-academic/blob/main/meal-kits-at-ikea-presentation.pdf"
   category: "writing"
-  description: "The condensed presentation of the report."
+  description: "The condensed presentation of 'A Possible Case for Meal Kits at IKEA'."
+
+- title: "Riksdagsbevakaren - Project Report"
+  date: "2026-06"
+  url: "https://github.com/gbrggrn/writing-academic/blob/main/xml-riksdagsbevakaren-rapport.pdf"
+  category: "writing"
+  description: "Project report for the XML-project Riksdagsbevakaren"
