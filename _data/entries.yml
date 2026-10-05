@@ -206,7 +206,35 @@
     - Programming in C
     - Information Systems and IT
 
-- title: "Datavetenskap B: XML - Mid Sweden University"
+- title: "Computer Science, second cycle: Data Mining - Örebro University"
+  date: "2026-10"
+  end_date: "2027-01"
+  url: "https://www.oru.se/utbildning/kurser/kurs/datateknik-avancerad-niva-datautvinning-dt727a"
+  category: "education"
+  description: "The course aims to provide students with knowledge and tools to prepare, visualize and exploratively analyze data"
+
+- title: "Computer Science, second cycle: Distributed Artificial Intelligence and Multi-agent Systems - Örebro University"
+  date: "2026-10"
+  end_date: "2027-01"
+  url: "https://www.oru.se/utbildning/kurser/kurs/datateknik-avancerad-niva-distribuerad-artificiell-intelligens-och-multiagentsystem-dt713a"
+  category: "education"
+  description: "Methods for construction and architectural principles for both agents and multi-agent systems."
+
+- title: "Computer Science, second cycle: Machine Learning - Örebro University"
+  date: "2026-10"
+  end_date: "2027-01"
+  url: "https://www.oru.se/utbildning/kurser/kurs/datateknik-avancerad-niva-maskininlarning-dt723a"
+  category: "education"
+  description: "Evaluation and understandning of core concepts and algorithms. Application of machine learning methods to accomplish a learning goal within an intelligent system."
+
+- title: "Computer Science, second cycle: Large Language Models for Industry - Örebro University"
+  date: "2026-10"
+  end_date: "2027-01"
+  url: "https://www.oru.se/utbildning/kurser/kurs/datateknik-avancerad-niva-storskaliga-sprakmodeller-for-industrin-dt728a"
+  category: "education"
+  description: "Understanding and applying large language models to solve industrial challenges."
+
+- title: "Computer Science, second cycle: XML - Mid Sweden University"
   date: "2026-04"
   end_date: "2026-06"
   url: "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DV058G/"
